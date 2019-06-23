@@ -1,0 +1,11 @@
+name: Void_Croppers
+version: 1.0
+author: Split
+main: org.Split.VC.Main
+description: Improved crop hoppers
+commands:
+  giveCropper:
+    aliases: [getCropper]
+    description: Gives sender a crop hopper
+  showChunks:
+    description: Shows all crop hopper data.
