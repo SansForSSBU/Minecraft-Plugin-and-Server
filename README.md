@@ -1,7 +1,7 @@
 Since GitHub does not allow uploading of files above 25MB, you can download the runnable server here:
 https://drive.google.com/open?id=1HJPxmcZX1NVGIIyMcBxiRDE1G-B00_ce
 
-You can download Eclipse workspace here, though.
+You can download Eclipse workspace here to read the code, though.
 
 Run the ! Start batch file to start the server.
 
