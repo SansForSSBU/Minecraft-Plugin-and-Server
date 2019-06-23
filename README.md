@@ -1,3 +1,5 @@
+This plugin was never completed, but main functions are present.
+
 Since GitHub does not allow uploading of files above 25MB, you can download the runnable server here:
 https://drive.google.com/open?id=1HJPxmcZX1NVGIIyMcBxiRDE1G-B00_ce
 
@@ -14,4 +16,4 @@ Placing it in a chunk with a cactus farm will send you a message with the X/Z of
 
 Running the command "/showChunks" will show you all chunks that there are void crophoppers in along with the amount of cactus eligible to spawn in those chunks.
 
-The void crophopper plugin was made by me. Everything else was not. I made this plugin a while back when me and some friends were making a Minecraft server.
+I made the crophopper plugin only. I made this plugin an while back when some friends and I were making a Minecraft server
