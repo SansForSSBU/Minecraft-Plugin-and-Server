@@ -1,3 +1,6 @@
+Since GitHub does not allow uploading of files above 25MB, you can download the server here:
+https://drive.google.com/open?id=1HJPxmcZX1NVGIIyMcBxiRDE1G-B00_ce
+
 Run the ! Start batch file to start the server.
 
 Open any minecraft client below 1.8.9, go to "Multiplayer" then "Direct Contact" and type in "localhost" to connect to the server.
