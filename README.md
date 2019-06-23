@@ -12,7 +12,7 @@ Open any minecraft client below 1.8.9, go to "Multiplayer" then "Direct Contact"
 If you don't have owner permissions, type "op yourname" into the server window.
 
 You can give yourself a void crophopper with "/givecropper".
-Placing it in a chunk with a cactus farm will send you a message with the X/Z of the chunk you placed it in along with the amount of cactus in that chunk. The hopper will accumulate cactus over time, and you can right click it to collect cactus.
+Placing it in a chunk with a cactus farm will send you a message with the X/Z of the chunk you placed it in along with the amount of cactus in that chunk. The hopper will accumulate cactus over time, and you can right click it to collect cactus. Unlike other crophopper plugins, this one does not require any players to load the chunks and the hoppers have infinite storage.
 
 Running the command "/showChunks" will show you all chunks that there are void crophoppers in along with the amount of cactus eligible to spawn in those chunks.
 
